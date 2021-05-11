@@ -1,3 +1,22 @@
 # Front-end-Project
 This is an front end project by using react.js 
 md -- mark down language
+# it is used for heading 1 after # don't forget to give space
+## it is used for heding 2 don't forget to give space
+### it is used for heading 3 
+#### it is used for heading 4 we have used only for 4 headings
+*font style in italic*  (after  * don"t give space)
+**font style in bold**  (after ** dont't give space)
+***font style in both italic and bold***  (after *** don't give space)
+# Unordered list 
+* Fruites as unordered list name
+* vegetables
+  * carrot
+  * potato
+  * onions
+# Ordered list
+1. Alphabets
+2. Digits
+    1. Whole numbers
+    2. Natural numbers
+    3. Integers
