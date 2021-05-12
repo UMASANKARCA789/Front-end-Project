@@ -7,15 +7,20 @@ md -- mark down language
 #### it is used for heading 4 we have used only for 4 headings
 ##### it is used for heading 5
 ###### it is ussed for heading 6
+
 *font style in italic*  (after  * don"t give space)
+
 **font style in bold**  (after ** dont't give space)
+
 ***font style in both italic and bold***  (after *** don't give space)
+
 # Unordered list 
 * Fruites as unordered list name
 * vegetables
   * carrot
   * potato
   * onions
+
 # Ordered list
 1. Alphabets
 2. Digits
