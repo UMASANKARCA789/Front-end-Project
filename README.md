@@ -37,3 +37,7 @@ md -- mark down language
 def fun():
   print("hai")
 ~~~
+
+Table 1 | Table 2
+--------|--------
+Table body 1 | Table body 2
