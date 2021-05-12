@@ -5,6 +5,8 @@ md -- mark down language
 ## it is used for heding 2 don't forget to give space
 ### it is used for heading 3 
 #### it is used for heading 4 we have used only for 4 headings
+##### it is used for heading 5
+###### it is ussed for heading 6
 *font style in italic*  (after  * don"t give space)
 **font style in bold**  (after ** dont't give space)
 ***font style in both italic and bold***  (after *** don't give space)
